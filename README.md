@@ -8,4 +8,4 @@ repositorio sencillo para explicar como usar el comando while en python
 ![Diagrama de Flujo](Diagram.png)
 
 ## Autores del proyecto :3
-![Autores](uoahfiapusfgasyuhfasf.png)
+![alt text](images.jpeg)
